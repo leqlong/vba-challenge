@@ -1,5 +1,7 @@
 # vba-challenge
+
 Module 2 Challenge
+
 In this assignment, I will be using VBA scripting to analyze generated stock market data.
 
 Create a script that loops through all the stocks for one year and outputs the following information:
